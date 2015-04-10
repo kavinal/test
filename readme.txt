@@ -3,8 +3,5 @@
 33333333333333
 44444444444444
 5555555555555
-<<<<<<< HEAD
 6666666666666
-=======
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
->>>>>>> dev
